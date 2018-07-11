@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="CafeTown Suite">
+	<test name="CafeTown Selenium Automation">
+		<classes>
+			<class
+				name="com.mobiquity.selenium.tests.LoginIT" />
+							<class
+				name="com.mobiquity.selenium.tests.CreateUserIT" />
+							<class
+				name="com.mobiquity.selenium.tests.EmployeePageIT" />
+							<class
+				name="com.mobiquity.selenium.tests.LogoutIT" />
+							<class
+				name="com.mobiquity.selenium.tests.CafeTownE2EIT" />
+		</classes>
+	</test>
+</suite>

@@ -1,14 +1,14 @@
 # Mobiquity
 ## Cafe Town Web App Selenium Automation
 
-##### Frameworks Used :
+##### Frameworks/Libraries Used :
 1. Java
 2. Selenium
 3. TestNG
 4. Maven
 5. Log4j
+6. Apache POI
 
- 
 ### Pre-requisites
 ##### 1. Java
 1. Download JDK 1.8 and install from the below link :
